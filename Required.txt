@@ -1,0 +1,5 @@
+Required:
+
+XAMPP control panel - Apache, MySQL
+PHP MyAdmin - MariaDB
+Composer
